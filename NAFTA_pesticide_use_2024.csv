@@ -1,0 +1,889 @@
+area,year,element,item,value,unit
+Canada,1990,Agricultural Use,Pesticides (total),29568,t
+Canada,1990,Use per area of cropland,Pesticides (total),0.71,kg/ha
+Canada,1990,Use per capita,Pesticides (total),1.07,kg/cap
+Canada,1990,Use per value of agricultural production,Pesticides (total),1.01,g/Int$
+Canada,1991,Agricultural Use,Pesticides (total),29477.5,t
+Canada,1991,Use per area of cropland,Pesticides (total),0.71,kg/ha
+Canada,1991,Use per capita,Pesticides (total),1.05,kg/cap
+Canada,1991,Use per value of agricultural production,Pesticides (total),1.03,g/Int$
+Canada,1992,Agricultural Use,Pesticides (total),29387,t
+Canada,1992,Use per area of cropland,Pesticides (total),0.71,kg/ha
+Canada,1992,Use per capita,Pesticides (total),1.04,kg/cap
+Canada,1992,Use per value of agricultural production,Pesticides (total),1.05,g/Int$
+Canada,1993,Agricultural Use,Pesticides (total),29296.5,t
+Canada,1993,Use per area of cropland,Pesticides (total),0.71,kg/ha
+Canada,1993,Use per capita,Pesticides (total),1.02,kg/cap
+Canada,1993,Use per value of agricultural production,Pesticides (total),1,g/Int$
+Canada,1994,Agricultural Use,Pesticides (total),29206,t
+Canada,1994,Use per area of cropland,Pesticides (total),0.71,kg/ha
+Canada,1994,Use per capita,Pesticides (total),1.01,kg/cap
+Canada,1994,Use per value of agricultural production,Pesticides (total),0.96,g/Int$
+Canada,1995,Agricultural Use,Pesticides (total),32234.97,t
+Canada,1995,Use per area of cropland,Pesticides (total),0.78,kg/ha
+Canada,1995,Use per capita,Pesticides (total),1.1,kg/cap
+Canada,1995,Use per value of agricultural production,Pesticides (total),1.04,g/Int$
+Canada,1996,Agricultural Use,Pesticides (total),35263.94,t
+Canada,1996,Use per area of cropland,Pesticides (total),0.86,kg/ha
+Canada,1996,Use per capita,Pesticides (total),1.19,kg/cap
+Canada,1996,Use per value of agricultural production,Pesticides (total),1.09,g/Int$
+Canada,1997,Agricultural Use,Pesticides (total),38292.91,t
+Canada,1997,Use per area of cropland,Pesticides (total),0.93,kg/ha
+Canada,1997,Use per capita,Pesticides (total),1.28,kg/cap
+Canada,1997,Use per value of agricultural production,Pesticides (total),1.2,g/Int$
+Canada,1998,Agricultural Use,Pesticides (total),41321.89,t
+Canada,1998,Use per area of cropland,Pesticides (total),1,kg/ha
+Canada,1998,Use per capita,Pesticides (total),1.37,kg/cap
+Canada,1998,Use per value of agricultural production,Pesticides (total),1.21,g/Int$
+Canada,1999,Agricultural Use,Pesticides (total),44350.86,t
+Canada,1999,Use per area of cropland,Pesticides (total),1.08,kg/ha
+Canada,1999,Use per capita,Pesticides (total),1.46,kg/cap
+Canada,1999,Use per value of agricultural production,Pesticides (total),1.21,g/Int$
+Canada,2000,Agricultural Use,Pesticides (total),39718.43,t
+Canada,2000,Use per area of cropland,Pesticides (total),0.97,kg/ha
+Canada,2000,Use per capita,Pesticides (total),1.29,kg/cap
+Canada,2000,Use per value of agricultural production,Pesticides (total),1.11,g/Int$
+Canada,2001,Agricultural Use,Pesticides (total),38501,t
+Canada,2001,Use per area of cropland,Pesticides (total),0.94,kg/ha
+Canada,2001,Use per capita,Pesticides (total),1.24,kg/cap
+Canada,2001,Use per value of agricultural production,Pesticides (total),1.19,g/Int$
+Canada,2002,Agricultural Use,Pesticides (total),34264.57,t
+Canada,2002,Use per area of cropland,Pesticides (total),0.84,kg/ha
+Canada,2002,Use per capita,Pesticides (total),1.09,kg/cap
+Canada,2002,Use per value of agricultural production,Pesticides (total),1.12,g/Int$
+Canada,2003,Agricultural Use,Pesticides (total),35628.14,t
+Canada,2003,Use per area of cropland,Pesticides (total),0.88,kg/ha
+Canada,2003,Use per capita,Pesticides (total),1.13,kg/cap
+Canada,2003,Use per value of agricultural production,Pesticides (total),1.03,g/Int$
+Canada,2004,Agricultural Use,Pesticides (total),36163.71,t
+Canada,2004,Use per area of cropland,Pesticides (total),0.9,kg/ha
+Canada,2004,Use per capita,Pesticides (total),1.13,kg/cap
+Canada,2004,Use per value of agricultural production,Pesticides (total),0.96,g/Int$
+Canada,2005,Agricultural Use,Pesticides (total),36382.29,t
+Canada,2005,Use per area of cropland,Pesticides (total),0.91,kg/ha
+Canada,2005,Use per capita,Pesticides (total),1.13,kg/cap
+Canada,2005,Use per value of agricultural production,Pesticides (total),0.94,g/Int$
+Canada,2006,Agricultural Use,Pesticides (total),36585.61,t
+Canada,2006,Use per area of cropland,Pesticides (total),0.93,kg/ha
+Canada,2006,Use per capita,Pesticides (total),1.12,kg/cap
+Canada,2006,Use per value of agricultural production,Pesticides (total),0.98,g/Int$
+Canada,2007,Agricultural Use,Pesticides (total),45146.45,t
+Canada,2007,Use per area of cropland,Pesticides (total),1.16,kg/ha
+Canada,2007,Use per capita,Pesticides (total),1.37,kg/cap
+Canada,2007,Use per value of agricultural production,Pesticides (total),1.23,g/Int$
+Canada,2008,Agricultural Use,Pesticides (total),53707.3,t
+Canada,2008,Use per area of cropland,Pesticides (total),1.39,kg/ha
+Canada,2008,Use per capita,Pesticides (total),1.62,kg/cap
+Canada,2008,Use per value of agricultural production,Pesticides (total),1.31,g/Int$
+Canada,2009,Agricultural Use,Pesticides (total),54529.4,t
+Canada,2009,Use per area of cropland,Pesticides (total),1.43,kg/ha
+Canada,2009,Use per capita,Pesticides (total),1.62,kg/cap
+Canada,2009,Use per value of agricultural production,Pesticides (total),1.37,g/Int$
+Canada,2010,Agricultural Use,Pesticides (total),61050,t
+Canada,2010,Use per area of cropland,Pesticides (total),1.61,kg/ha
+Canada,2010,Use per capita,Pesticides (total),1.8,kg/cap
+Canada,2010,Use per value of agricultural production,Pesticides (total),1.55,g/Int$
+Canada,2011,Agricultural Use,Pesticides (total),62107.2,t
+Canada,2011,Use per area of cropland,Pesticides (total),1.66,kg/ha
+Canada,2011,Use per capita,Pesticides (total),1.81,kg/cap
+Canada,2011,Use per value of agricultural production,Pesticides (total),1.59,g/Int$
+Canada,2012,Agricultural Use,Pesticides (total),73508.9,t
+Canada,2012,Use per area of cropland,Pesticides (total),1.95,kg/ha
+Canada,2012,Use per capita,Pesticides (total),2.12,kg/cap
+Canada,2012,Use per value of agricultural production,Pesticides (total),1.84,g/Int$
+Canada,2013,Agricultural Use,Pesticides (total),81659.8,t
+Canada,2013,Use per area of cropland,Pesticides (total),2.15,kg/ha
+Canada,2013,Use per capita,Pesticides (total),2.33,kg/cap
+Canada,2013,Use per value of agricultural production,Pesticides (total),1.77,g/Int$
+Canada,2014,Agricultural Use,Pesticides (total),76314,t
+Canada,2014,Use per area of cropland,Pesticides (total),2,kg/ha
+Canada,2014,Use per capita,Pesticides (total),2.16,kg/cap
+Canada,2014,Use per value of agricultural production,Pesticides (total),1.76,g/Int$
+Canada,2015,Agricultural Use,Pesticides (total),75318.3,t
+Canada,2015,Use per area of cropland,Pesticides (total),1.96,kg/ha
+Canada,2015,Use per capita,Pesticides (total),2.11,kg/cap
+Canada,2015,Use per value of agricultural production,Pesticides (total),1.67,g/Int$
+Canada,2016,Agricultural Use,Pesticides (total),90926,t
+Canada,2016,Use per area of cropland,Pesticides (total),2.35,kg/ha
+Canada,2016,Use per capita,Pesticides (total),2.52,kg/cap
+Canada,2016,Use per value of agricultural production,Pesticides (total),1.86,g/Int$
+Canada,2017,Agricultural Use,Pesticides (total),98304,t
+Canada,2017,Use per area of cropland,Pesticides (total),2.54,kg/ha
+Canada,2017,Use per capita,Pesticides (total),2.69,kg/cap
+Canada,2017,Use per value of agricultural production,Pesticides (total),1.98,g/Int$
+Canada,2018,Agricultural Use,Pesticides (total),87632,t
+Canada,2018,Use per area of cropland,Pesticides (total),2.26,kg/ha
+Canada,2018,Use per capita,Pesticides (total),2.37,kg/cap
+Canada,2018,Use per value of agricultural production,Pesticides (total),1.76,g/Int$
+Canada,2019,Agricultural Use,Pesticides (total),78893,t
+Canada,2019,Use per area of cropland,Pesticides (total),2.03,kg/ha
+Canada,2019,Use per capita,Pesticides (total),2.1,kg/cap
+Canada,2019,Use per value of agricultural production,Pesticides (total),1.57,g/Int$
+Canada,2020,Agricultural Use,Pesticides (total),92960,t
+Canada,2020,Use per area of cropland,Pesticides (total),2.42,kg/ha
+Canada,2020,Use per capita,Pesticides (total),2.45,kg/cap
+Canada,2020,Use per value of agricultural production,Pesticides (total),1.8,g/Int$
+Canada,2021,Agricultural Use,Pesticides (total),97692,t
+Canada,2021,Use per area of cropland,Pesticides (total),2.54,kg/ha
+Canada,2021,Use per capita,Pesticides (total),2.56,kg/cap
+Canada,2021,Use per value of agricultural production,Pesticides (total),2.23,g/Int$
+Canada,2022,Agricultural Use,Pesticides (total),97692,t
+Canada,2022,Use per area of cropland,Pesticides (total),2.54,kg/ha
+Canada,2022,Use per capita,Pesticides (total),2.54,kg/cap
+Canada,2022,Use per value of agricultural production,Pesticides (total),1.91,g/Int$
+Canada,1990,Agricultural Use,Insecticides,2913,t
+Canada,1991,Agricultural Use,Insecticides,3041.25,t
+Canada,1992,Agricultural Use,Insecticides,3169.5,t
+Canada,1993,Agricultural Use,Insecticides,3297.75,t
+Canada,1994,Agricultural Use,Insecticides,3426,t
+Canada,1995,Agricultural Use,Insecticides,3192.6,t
+Canada,1996,Agricultural Use,Insecticides,2959.2,t
+Canada,1997,Agricultural Use,Insecticides,2725.8,t
+Canada,1998,Agricultural Use,Insecticides,2492.4,t
+Canada,1999,Agricultural Use,Insecticides,2259,t
+Canada,2000,Agricultural Use,Insecticides,2059,t
+Canada,2001,Agricultural Use,Insecticides,1923,t
+Canada,2002,Agricultural Use,Insecticides,1711,t
+Canada,2003,Agricultural Use,Insecticides,2848,t
+Canada,2004,Agricultural Use,Insecticides,2168,t
+Canada,2005,Agricultural Use,Insecticides,1455,t
+Canada,2006,Agricultural Use,Insecticides,1287.6,t
+Canada,2007,Agricultural Use,Insecticides,2148.85,t
+Canada,2008,Agricultural Use,Insecticides,3010.1,t
+Canada,2009,Agricultural Use,Insecticides,2525,t
+Canada,2010,Agricultural Use,Insecticides,3007.4,t
+Canada,2011,Agricultural Use,Insecticides,3164.3,t
+Canada,2012,Agricultural Use,Insecticides,3773.4,t
+Canada,2013,Agricultural Use,Insecticides,3708.1,t
+Canada,2014,Agricultural Use,Insecticides,3455.2,t
+Canada,2015,Agricultural Use,Insecticides,3702.96,t
+Canada,2016,Agricultural Use,Insecticides,5089,t
+Canada,2017,Agricultural Use,Insecticides,4261,t
+Canada,2018,Agricultural Use,Insecticides,3185,t
+Canada,2019,Agricultural Use,Insecticides,3406,t
+Canada,2020,Agricultural Use,Insecticides,3143,t
+Canada,2021,Agricultural Use,Insecticides,4816,t
+Canada,2022,Agricultural Use,Insecticides,4816,t
+Canada,1990,Agricultural Use,Insecticides – Chlorinated Hydrocarbons,1638,t
+Canada,1994,Agricultural Use,Insecticides – Chlorinated Hydrocarbons,1800,t
+Canada,1990,Agricultural Use,Insecticides – Organo-phosphates,818,t
+Canada,1994,Agricultural Use,Insecticides – Organo-phosphates,1000,t
+Canada,1990,Agricultural Use,Insecticides – Carbamates,194,t
+Canada,1994,Agricultural Use,Insecticides – Carbamates,200,t
+Canada,1990,Agricultural Use,Insecticides – Pyrethroids,12,t
+Canada,1994,Agricultural Use,Insecticides – Pyrethroids,26,t
+Canada,1990,Agricultural Use,Insecticides - nes,251,t
+Canada,1994,Agricultural Use,Insecticides - nes,400,t
+Canada,1990,Agricultural Use,Herbicides,24485,t
+Canada,1991,Agricultural Use,Herbicides,23841.25,t
+Canada,1992,Agricultural Use,Herbicides,23197.5,t
+Canada,1993,Agricultural Use,Herbicides,22553.75,t
+Canada,1994,Agricultural Use,Herbicides,21910,t
+Canada,1995,Agricultural Use,Herbicides,24933,t
+Canada,1996,Agricultural Use,Herbicides,27956,t
+Canada,1997,Agricultural Use,Herbicides,30979,t
+Canada,1998,Agricultural Use,Herbicides,34002,t
+Canada,1999,Agricultural Use,Herbicides,37025,t
+Canada,2000,Agricultural Use,Herbicides,32218,t
+Canada,2001,Agricultural Use,Herbicides,30765,t
+Canada,2002,Agricultural Use,Herbicides,27381,t
+Canada,2003,Agricultural Use,Herbicides,27408,t
+Canada,2004,Agricultural Use,Herbicides,27646,t
+Canada,2005,Agricultural Use,Herbicides,28363,t
+Canada,2006,Agricultural Use,Herbicides,28711.68,t
+Canada,2007,Agricultural Use,Herbicides,35321.24,t
+Canada,2008,Agricultural Use,Herbicides,41930.8,t
+Canada,2009,Agricultural Use,Herbicides,43193.7,t
+Canada,2010,Agricultural Use,Herbicides,49321.2,t
+Canada,2011,Agricultural Use,Herbicides,50256.6,t
+Canada,2012,Agricultural Use,Herbicides,58197.6,t
+Canada,2013,Agricultural Use,Herbicides,64570.2,t
+Canada,2014,Agricultural Use,Herbicides,58437.3,t
+Canada,2015,Agricultural Use,Herbicides,54285.46,t
+Canada,2016,Agricultural Use,Herbicides,65444,t
+Canada,2017,Agricultural Use,Herbicides,75160,t
+Canada,2018,Agricultural Use,Herbicides,63399,t
+Canada,2019,Agricultural Use,Herbicides,59427,t
+Canada,2020,Agricultural Use,Herbicides,72190,t
+Canada,2021,Agricultural Use,Herbicides,75280,t
+Canada,2022,Agricultural Use,Herbicides,75280,t
+Canada,1990,Agricultural Use,Herbicides – Phenoxy hormone products,8354,t
+Canada,1994,Agricultural Use,Herbicides – Phenoxy hormone products,6100,t
+Canada,1990,Agricultural Use,Herbicides – Triazines,2488,t
+Canada,1994,Agricultural Use,Herbicides – Triazines,2500,t
+Canada,1990,Agricultural Use,Herbicides – Carbamates,100,t
+Canada,1994,Agricultural Use,Herbicides – Carbamates,30,t
+Canada,1990,Agricultural Use,Herbicides – Dinitroanilines,2922,t
+Canada,1994,Agricultural Use,Herbicides – Dinitroanilines,2800,t
+Canada,1990,Agricultural Use,Herbicides – Urea derivates,470,t
+Canada,1994,Agricultural Use,Herbicides – Urea derivates,480,t
+Canada,1990,Agricultural Use,Herbicides - nes,10151,t
+Canada,1994,Agricultural Use,Herbicides - nes,10000,t
+Canada,1990,Agricultural Use,Fungicides and Bactericides,1970,t
+Canada,1991,Agricultural Use,Fungicides and Bactericides,2422.5,t
+Canada,1992,Agricultural Use,Fungicides and Bactericides,2875,t
+Canada,1993,Agricultural Use,Fungicides and Bactericides,3327.5,t
+Canada,1994,Agricultural Use,Fungicides and Bactericides,3780,t
+Canada,1995,Agricultural Use,Fungicides and Bactericides,3665.6,t
+Canada,1996,Agricultural Use,Fungicides and Bactericides,3551.2,t
+Canada,1997,Agricultural Use,Fungicides and Bactericides,3436.8,t
+Canada,1998,Agricultural Use,Fungicides and Bactericides,3322.4,t
+Canada,1999,Agricultural Use,Fungicides and Bactericides,3208,t
+Canada,2000,Agricultural Use,Fungicides and Bactericides,3755,t
+Canada,2001,Agricultural Use,Fungicides and Bactericides,3461,t
+Canada,2002,Agricultural Use,Fungicides and Bactericides,2738,t
+Canada,2003,Agricultural Use,Fungicides and Bactericides,3204,t
+Canada,2004,Agricultural Use,Fungicides and Bactericides,3614,t
+Canada,2005,Agricultural Use,Fungicides and Bactericides,3636,t
+Canada,2006,Agricultural Use,Fungicides and Bactericides,3722.63,t
+Canada,2007,Agricultural Use,Fungicides and Bactericides,5161.91,t
+Canada,2008,Agricultural Use,Fungicides and Bactericides,6601.2,t
+Canada,2009,Agricultural Use,Fungicides and Bactericides,6393.1,t
+Canada,2010,Agricultural Use,Fungicides and Bactericides,5593.7,t
+Canada,2011,Agricultural Use,Fungicides and Bactericides,6080.4,t
+Canada,2012,Agricultural Use,Fungicides and Bactericides,7546.8,t
+Canada,2013,Agricultural Use,Fungicides and Bactericides,9028.5,t
+Canada,2014,Agricultural Use,Fungicides and Bactericides,9313.9,t
+Canada,2015,Agricultural Use,Fungicides and Bactericides,8516.82,t
+Canada,2016,Agricultural Use,Fungicides and Bactericides,9083,t
+Canada,2017,Agricultural Use,Fungicides and Bactericides,9692,t
+Canada,2018,Agricultural Use,Fungicides and Bactericides,13558,t
+Canada,2019,Agricultural Use,Fungicides and Bactericides,7888,t
+Canada,2020,Agricultural Use,Fungicides and Bactericides,7952,t
+Canada,2021,Agricultural Use,Fungicides and Bactericides,12474,t
+Canada,2022,Agricultural Use,Fungicides and Bactericides,12474,t
+Canada,1990,Agricultural Use,Fung & Bact – Inorganics,38,t
+Canada,1994,Agricultural Use,Fung & Bact – Inorganics,80,t
+Canada,1990,Agricultural Use,Fung & Bact – Dithiocarbamates,968,t
+Canada,1994,Agricultural Use,Fung & Bact – Dithiocarbamates,2000,t
+Canada,1990,Agricultural Use,Fung & Bact – Benzimidazoles,73,t
+Canada,1994,Agricultural Use,Fung & Bact – Benzimidazoles,300,t
+Canada,1990,Agricultural Use,Fung & Bact - nes,891,t
+Canada,1994,Agricultural Use,Fung & Bact - nes,1400,t
+Canada,1990,Agricultural Use,Plant Growth Regulators,200,t
+Canada,1991,Agricultural Use,Plant Growth Regulators,172.5,t
+Canada,1992,Agricultural Use,Plant Growth Regulators,145,t
+Canada,1993,Agricultural Use,Plant Growth Regulators,117.5,t
+Canada,1994,Agricultural Use,Plant Growth Regulators,90,t
+Canada,1995,Agricultural Use,Plant Growth Regulators,83.57,t
+Canada,1996,Agricultural Use,Plant Growth Regulators,77.14,t
+Canada,1997,Agricultural Use,Plant Growth Regulators,70.71,t
+Canada,1998,Agricultural Use,Plant Growth Regulators,64.29,t
+Canada,1999,Agricultural Use,Plant Growth Regulators,57.86,t
+Canada,2000,Agricultural Use,Plant Growth Regulators,51.43,t
+Canada,2001,Agricultural Use,Plant Growth Regulators,45,t
+Canada,2002,Agricultural Use,Plant Growth Regulators,38.57,t
+Canada,2003,Agricultural Use,Plant Growth Regulators,32.14,t
+Canada,2004,Agricultural Use,Plant Growth Regulators,25.71,t
+Canada,2005,Agricultural Use,Plant Growth Regulators,19.29,t
+Canada,2006,Agricultural Use,Plant Growth Regulators,12.86,t
+Canada,2007,Agricultural Use,Plant Growth Regulators,6.43,t
+Canada,2008,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2009,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2010,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2011,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2012,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2013,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2014,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2015,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2016,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2017,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2018,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2019,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2020,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2021,Agricultural Use,Plant Growth Regulators,0,t
+Canada,2022,Agricultural Use,Plant Growth Regulators,0,t
+Canada,1990,Agricultural Use,Rodenticides,0,t
+Canada,1991,Agricultural Use,Rodenticides,0,t
+Canada,1992,Agricultural Use,Rodenticides,0,t
+Canada,1993,Agricultural Use,Rodenticides,0,t
+Canada,1994,Agricultural Use,Rodenticides,0,t
+Canada,1995,Agricultural Use,Rodenticides,0,t
+Canada,1996,Agricultural Use,Rodenticides,0,t
+Canada,1997,Agricultural Use,Rodenticides,0,t
+Canada,1998,Agricultural Use,Rodenticides,0,t
+Canada,1999,Agricultural Use,Rodenticides,0,t
+Canada,2000,Agricultural Use,Rodenticides,0,t
+Canada,2001,Agricultural Use,Rodenticides,0,t
+Canada,2002,Agricultural Use,Rodenticides,0,t
+Canada,2003,Agricultural Use,Rodenticides,0,t
+Canada,2004,Agricultural Use,Rodenticides,0,t
+Canada,2005,Agricultural Use,Rodenticides,0,t
+Canada,2006,Agricultural Use,Rodenticides,0,t
+Canada,2007,Agricultural Use,Rodenticides,0,t
+Canada,2008,Agricultural Use,Rodenticides,0,t
+Canada,2009,Agricultural Use,Rodenticides,0,t
+Canada,2010,Agricultural Use,Rodenticides,0,t
+Canada,2011,Agricultural Use,Rodenticides,0,t
+Canada,2012,Agricultural Use,Rodenticides,0,t
+Canada,2013,Agricultural Use,Rodenticides,0,t
+Canada,2014,Agricultural Use,Rodenticides,0,t
+Canada,2015,Agricultural Use,Rodenticides,0,t
+Canada,2016,Agricultural Use,Rodenticides,37,t
+Canada,2017,Agricultural Use,Rodenticides,35,t
+Canada,2018,Agricultural Use,Rodenticides,27,t
+Canada,2019,Agricultural Use,Rodenticides,31,t
+Canada,2020,Agricultural Use,Rodenticides,27,t
+Canada,2021,Agricultural Use,Rodenticides,10,t
+Canada,2022,Agricultural Use,Rodenticides,10,t
+Canada,1990,Agricultural Use,Other Pesticides nes,0,t
+Canada,1991,Agricultural Use,Other Pesticides nes,0,t
+Canada,1992,Agricultural Use,Other Pesticides nes,0,t
+Canada,1993,Agricultural Use,Other Pesticides nes,0,t
+Canada,1994,Agricultural Use,Other Pesticides nes,0,t
+Canada,1995,Agricultural Use,Other Pesticides nes,360.2,t
+Canada,1996,Agricultural Use,Other Pesticides nes,720.4,t
+Canada,1997,Agricultural Use,Other Pesticides nes,1080.6,t
+Canada,1998,Agricultural Use,Other Pesticides nes,1440.8,t
+Canada,1999,Agricultural Use,Other Pesticides nes,1801,t
+Canada,2000,Agricultural Use,Other Pesticides nes,1635,t
+Canada,2001,Agricultural Use,Other Pesticides nes,2307,t
+Canada,2002,Agricultural Use,Other Pesticides nes,2396,t
+Canada,2003,Agricultural Use,Other Pesticides nes,2136,t
+Canada,2004,Agricultural Use,Other Pesticides nes,2710,t
+Canada,2005,Agricultural Use,Other Pesticides nes,2909,t
+Canada,2006,Agricultural Use,Other Pesticides nes,2850.84,t
+Canada,2007,Agricultural Use,Other Pesticides nes,2508.02,t
+Canada,2008,Agricultural Use,Other Pesticides nes,2165.2,t
+Canada,2009,Agricultural Use,Other Pesticides nes,2417.6,t
+Canada,2010,Agricultural Use,Other Pesticides nes,3127.7,t
+Canada,2011,Agricultural Use,Other Pesticides nes,2605.9,t
+Canada,2012,Agricultural Use,Other Pesticides nes,3991.1,t
+Canada,2013,Agricultural Use,Other Pesticides nes,4353,t
+Canada,2014,Agricultural Use,Other Pesticides nes,5107.6,t
+Canada,2015,Agricultural Use,Other Pesticides nes,8813.06,t
+Canada,2016,Agricultural Use,Other Pesticides nes,11273,t
+Canada,2017,Agricultural Use,Other Pesticides nes,9156,t
+Canada,2018,Agricultural Use,Other Pesticides nes,7463,t
+Canada,2019,Agricultural Use,Other Pesticides nes,8141,t
+Canada,2020,Agricultural Use,Other Pesticides nes,9648,t
+Canada,2021,Agricultural Use,Other Pesticides nes,5112,t
+Canada,2022,Agricultural Use,Other Pesticides nes,5112,t
+Mexico,1990,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1990,Use per area of cropland,Pesticides (total),1.12,kg/ha
+Mexico,1990,Use per capita,Pesticides (total),0.33,kg/cap
+Mexico,1990,Use per value of agricultural production,Pesticides (total),0.85,g/Int$
+Mexico,1991,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1991,Use per area of cropland,Pesticides (total),1.08,kg/ha
+Mexico,1991,Use per capita,Pesticides (total),0.32,kg/cap
+Mexico,1991,Use per value of agricultural production,Pesticides (total),0.83,g/Int$
+Mexico,1992,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1992,Use per area of cropland,Pesticides (total),1.08,kg/ha
+Mexico,1992,Use per capita,Pesticides (total),0.31,kg/cap
+Mexico,1992,Use per value of agricultural production,Pesticides (total),0.83,g/Int$
+Mexico,1993,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1993,Use per area of cropland,Pesticides (total),1.07,kg/ha
+Mexico,1993,Use per capita,Pesticides (total),0.31,kg/cap
+Mexico,1993,Use per value of agricultural production,Pesticides (total),0.8,g/Int$
+Mexico,1994,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1994,Use per area of cropland,Pesticides (total),1.07,kg/ha
+Mexico,1994,Use per capita,Pesticides (total),0.3,kg/cap
+Mexico,1994,Use per value of agricultural production,Pesticides (total),0.77,g/Int$
+Mexico,1995,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1995,Use per area of cropland,Pesticides (total),1.07,kg/ha
+Mexico,1995,Use per capita,Pesticides (total),0.3,kg/cap
+Mexico,1995,Use per value of agricultural production,Pesticides (total),0.74,g/Int$
+Mexico,1996,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1996,Use per area of cropland,Pesticides (total),1.06,kg/ha
+Mexico,1996,Use per capita,Pesticides (total),0.29,kg/cap
+Mexico,1996,Use per value of agricultural production,Pesticides (total),0.72,g/Int$
+Mexico,1997,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1997,Use per area of cropland,Pesticides (total),1.06,kg/ha
+Mexico,1997,Use per capita,Pesticides (total),0.29,kg/cap
+Mexico,1997,Use per value of agricultural production,Pesticides (total),0.7,g/Int$
+Mexico,1998,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1998,Use per area of cropland,Pesticides (total),1.05,kg/ha
+Mexico,1998,Use per capita,Pesticides (total),0.28,kg/cap
+Mexico,1998,Use per value of agricultural production,Pesticides (total),0.67,g/Int$
+Mexico,1999,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,1999,Use per area of cropland,Pesticides (total),1.05,kg/ha
+Mexico,1999,Use per capita,Pesticides (total),0.28,kg/cap
+Mexico,1999,Use per value of agricultural production,Pesticides (total),0.65,g/Int$
+Mexico,2000,Agricultural Use,Pesticides (total),26624.98,t
+Mexico,2000,Use per area of cropland,Pesticides (total),1.05,kg/ha
+Mexico,2000,Use per capita,Pesticides (total),0.27,kg/cap
+Mexico,2000,Use per value of agricultural production,Pesticides (total),0.65,g/Int$
+Mexico,2001,Agricultural Use,Pesticides (total),23371.7,t
+Mexico,2001,Use per area of cropland,Pesticides (total),0.91,kg/ha
+Mexico,2001,Use per capita,Pesticides (total),0.24,kg/cap
+Mexico,2001,Use per value of agricultural production,Pesticides (total),0.54,g/Int$
+Mexico,2002,Agricultural Use,Pesticides (total),11535.83,t
+Mexico,2002,Use per area of cropland,Pesticides (total),0.45,kg/ha
+Mexico,2002,Use per capita,Pesticides (total),0.11,kg/cap
+Mexico,2002,Use per value of agricultural production,Pesticides (total),0.27,g/Int$
+Mexico,2003,Agricultural Use,Pesticides (total),16285.16,t
+Mexico,2003,Use per area of cropland,Pesticides (total),0.63,kg/ha
+Mexico,2003,Use per capita,Pesticides (total),0.16,kg/cap
+Mexico,2003,Use per value of agricultural production,Pesticides (total),0.36,g/Int$
+Mexico,2004,Agricultural Use,Pesticides (total),18507.68,t
+Mexico,2004,Use per area of cropland,Pesticides (total),0.72,kg/ha
+Mexico,2004,Use per capita,Pesticides (total),0.18,kg/cap
+Mexico,2004,Use per value of agricultural production,Pesticides (total),0.4,g/Int$
+Mexico,2005,Agricultural Use,Pesticides (total),39171.9,t
+Mexico,2005,Use per area of cropland,Pesticides (total),1.51,kg/ha
+Mexico,2005,Use per capita,Pesticides (total),0.37,kg/cap
+Mexico,2005,Use per value of agricultural production,Pesticides (total),0.86,g/Int$
+Mexico,2006,Agricultural Use,Pesticides (total),38402.66,t
+Mexico,2006,Use per area of cropland,Pesticides (total),1.48,kg/ha
+Mexico,2006,Use per capita,Pesticides (total),0.36,kg/cap
+Mexico,2006,Use per value of agricultural production,Pesticides (total),0.8,g/Int$
+Mexico,2007,Agricultural Use,Pesticides (total),50894.34,t
+Mexico,2007,Use per area of cropland,Pesticides (total),1.95,kg/ha
+Mexico,2007,Use per capita,Pesticides (total),0.47,kg/cap
+Mexico,2007,Use per value of agricultural production,Pesticides (total),1.04,g/Int$
+Mexico,2008,Agricultural Use,Pesticides (total),50154.53,t
+Mexico,2008,Use per area of cropland,Pesticides (total),1.93,kg/ha
+Mexico,2008,Use per capita,Pesticides (total),0.46,kg/cap
+Mexico,2008,Use per value of agricultural production,Pesticides (total),1,g/Int$
+Mexico,2009,Agricultural Use,Pesticides (total),50327.9,t
+Mexico,2009,Use per area of cropland,Pesticides (total),1.95,kg/ha
+Mexico,2009,Use per capita,Pesticides (total),0.45,kg/cap
+Mexico,2009,Use per value of agricultural production,Pesticides (total),1.03,g/Int$
+Mexico,2010,Agricultural Use,Pesticides (total),52305.13,t
+Mexico,2010,Use per area of cropland,Pesticides (total),2.04,kg/ha
+Mexico,2010,Use per capita,Pesticides (total),0.46,kg/cap
+Mexico,2010,Use per value of agricultural production,Pesticides (total),1.03,g/Int$
+Mexico,2011,Agricultural Use,Pesticides (total),53219.63,t
+Mexico,2011,Use per area of cropland,Pesticides (total),2.1,kg/ha
+Mexico,2011,Use per capita,Pesticides (total),0.47,kg/cap
+Mexico,2011,Use per value of agricultural production,Pesticides (total),1.06,g/Int$
+Mexico,2012,Agricultural Use,Pesticides (total),49213.67,t
+Mexico,2012,Use per area of cropland,Pesticides (total),1.95,kg/ha
+Mexico,2012,Use per capita,Pesticides (total),0.43,kg/cap
+Mexico,2012,Use per value of agricultural production,Pesticides (total),0.94,g/Int$
+Mexico,2013,Agricultural Use,Pesticides (total),47551.15,t
+Mexico,2013,Use per area of cropland,Pesticides (total),1.9,kg/ha
+Mexico,2013,Use per capita,Pesticides (total),0.41,kg/cap
+Mexico,2013,Use per value of agricultural production,Pesticides (total),0.88,g/Int$
+Mexico,2014,Agricultural Use,Pesticides (total),43028.74,t
+Mexico,2014,Use per area of cropland,Pesticides (total),1.73,kg/ha
+Mexico,2014,Use per capita,Pesticides (total),0.36,kg/cap
+Mexico,2014,Use per value of agricultural production,Pesticides (total),0.77,g/Int$
+Mexico,2015,Agricultural Use,Pesticides (total),48292.99,t
+Mexico,2015,Use per area of cropland,Pesticides (total),1.95,kg/ha
+Mexico,2015,Use per capita,Pesticides (total),0.4,kg/cap
+Mexico,2015,Use per value of agricultural production,Pesticides (total),0.86,g/Int$
+Mexico,2016,Agricultural Use,Pesticides (total),47421.33,t
+Mexico,2016,Use per area of cropland,Pesticides (total),1.95,kg/ha
+Mexico,2016,Use per capita,Pesticides (total),0.39,kg/cap
+Mexico,2016,Use per value of agricultural production,Pesticides (total),0.8,g/Int$
+Mexico,2017,Agricultural Use,Pesticides (total),50801.94,t
+Mexico,2017,Use per area of cropland,Pesticides (total),2.22,kg/ha
+Mexico,2017,Use per capita,Pesticides (total),0.41,kg/cap
+Mexico,2017,Use per value of agricultural production,Pesticides (total),0.82,g/Int$
+Mexico,2018,Agricultural Use,Pesticides (total),53144.44,t
+Mexico,2018,Use per area of cropland,Pesticides (total),2.35,kg/ha
+Mexico,2018,Use per capita,Pesticides (total),0.43,kg/cap
+Mexico,2018,Use per value of agricultural production,Pesticides (total),0.84,g/Int$
+Mexico,2019,Agricultural Use,Pesticides (total),19871.11,t
+Mexico,2019,Use per area of cropland,Pesticides (total),0.9,kg/ha
+Mexico,2019,Use per capita,Pesticides (total),0.16,kg/cap
+Mexico,2019,Use per value of agricultural production,Pesticides (total),0.31,g/Int$
+Mexico,2020,Agricultural Use,Pesticides (total),19250.44,t
+Mexico,2020,Use per area of cropland,Pesticides (total),0.84,kg/ha
+Mexico,2020,Use per capita,Pesticides (total),0.15,kg/cap
+Mexico,2020,Use per value of agricultural production,Pesticides (total),0.3,g/Int$
+Mexico,2021,Agricultural Use,Pesticides (total),19767.32,t
+Mexico,2021,Use per area of cropland,Pesticides (total),0.86,kg/ha
+Mexico,2021,Use per capita,Pesticides (total),0.16,kg/cap
+Mexico,2021,Use per value of agricultural production,Pesticides (total),0.3,g/Int$
+Mexico,2022,Agricultural Use,Pesticides (total),19613.51,t
+Mexico,2022,Use per area of cropland,Pesticides (total),0.9,kg/ha
+Mexico,2022,Use per capita,Pesticides (total),0.15,kg/cap
+Mexico,2022,Use per value of agricultural production,Pesticides (total),0.29,g/Int$
+Mexico,1990,Agricultural Use,Insecticides,5852.18,t
+Mexico,1991,Agricultural Use,Insecticides,5852.18,t
+Mexico,1992,Agricultural Use,Insecticides,5852.18,t
+Mexico,1993,Agricultural Use,Insecticides,5852.18,t
+Mexico,1994,Agricultural Use,Insecticides,5852.18,t
+Mexico,1995,Agricultural Use,Insecticides,5852.18,t
+Mexico,1996,Agricultural Use,Insecticides,5852.18,t
+Mexico,1997,Agricultural Use,Insecticides,5852.18,t
+Mexico,1998,Agricultural Use,Insecticides,5852.18,t
+Mexico,1999,Agricultural Use,Insecticides,5852.18,t
+Mexico,2000,Agricultural Use,Insecticides,5852.18,t
+Mexico,2001,Agricultural Use,Insecticides,4720.06,t
+Mexico,2002,Agricultural Use,Insecticides,3053.67,t
+Mexico,2003,Agricultural Use,Insecticides,4105.84,t
+Mexico,2004,Agricultural Use,Insecticides,4809.77,t
+Mexico,2005,Agricultural Use,Insecticides,5948.28,t
+Mexico,2006,Agricultural Use,Insecticides,6122.5,t
+Mexico,2007,Agricultural Use,Insecticides,8430.76,t
+Mexico,2008,Agricultural Use,Insecticides,7798.05,t
+Mexico,2009,Agricultural Use,Insecticides,8067.44,t
+Mexico,2010,Agricultural Use,Insecticides,8268.01,t
+Mexico,2011,Agricultural Use,Insecticides,9555.13,t
+Mexico,2012,Agricultural Use,Insecticides,11625.31,t
+Mexico,2013,Agricultural Use,Insecticides,11611.05,t
+Mexico,2014,Agricultural Use,Insecticides,10045.86,t
+Mexico,2015,Agricultural Use,Insecticides,9547.07,t
+Mexico,2016,Agricultural Use,Insecticides,8001.41,t
+Mexico,2017,Agricultural Use,Insecticides,11174.26,t
+Mexico,2018,Agricultural Use,Insecticides,12990.86,t
+Mexico,2019,Agricultural Use,Insecticides,2663.83,t
+Mexico,2020,Agricultural Use,Insecticides,2503.56,t
+Mexico,2021,Agricultural Use,Insecticides,2625.08,t
+Mexico,2022,Agricultural Use,Insecticides,3032.73,t
+Mexico,1990,Agricultural Use,Herbicides,6718.4,t
+Mexico,1991,Agricultural Use,Herbicides,6718.4,t
+Mexico,1992,Agricultural Use,Herbicides,6718.4,t
+Mexico,1993,Agricultural Use,Herbicides,6718.4,t
+Mexico,1994,Agricultural Use,Herbicides,6718.4,t
+Mexico,1995,Agricultural Use,Herbicides,6718.4,t
+Mexico,1996,Agricultural Use,Herbicides,6718.4,t
+Mexico,1997,Agricultural Use,Herbicides,6718.4,t
+Mexico,1998,Agricultural Use,Herbicides,6718.4,t
+Mexico,1999,Agricultural Use,Herbicides,6718.4,t
+Mexico,2000,Agricultural Use,Herbicides,6718.4,t
+Mexico,2001,Agricultural Use,Herbicides,6768.04,t
+Mexico,2002,Agricultural Use,Herbicides,3685.43,t
+Mexico,2003,Agricultural Use,Herbicides,5784.47,t
+Mexico,2004,Agricultural Use,Herbicides,6253.54,t
+Mexico,2005,Agricultural Use,Herbicides,11159.82,t
+Mexico,2006,Agricultural Use,Herbicides,10996.96,t
+Mexico,2007,Agricultural Use,Herbicides,12439.58,t
+Mexico,2008,Agricultural Use,Herbicides,11077.88,t
+Mexico,2009,Agricultural Use,Herbicides,10886.46,t
+Mexico,2010,Agricultural Use,Herbicides,10838.52,t
+Mexico,2011,Agricultural Use,Herbicides,11809.9,t
+Mexico,2012,Agricultural Use,Herbicides,12812.56,t
+Mexico,2013,Agricultural Use,Herbicides,10606.3,t
+Mexico,2014,Agricultural Use,Herbicides,8973.28,t
+Mexico,2015,Agricultural Use,Herbicides,9815.12,t
+Mexico,2016,Agricultural Use,Herbicides,10219.72,t
+Mexico,2017,Agricultural Use,Herbicides,10669.88,t
+Mexico,2018,Agricultural Use,Herbicides,11552.18,t
+Mexico,2019,Agricultural Use,Herbicides,2064.48,t
+Mexico,2020,Agricultural Use,Herbicides,2271.88,t
+Mexico,2021,Agricultural Use,Herbicides,2960.04,t
+Mexico,2022,Agricultural Use,Herbicides,3341.18,t
+Mexico,1990,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1991,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1992,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1993,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1994,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1995,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1996,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1997,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1998,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,1999,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,2000,Agricultural Use,Fungicides and Bactericides,14054.4,t
+Mexico,2001,Agricultural Use,Fungicides and Bactericides,11883.6,t
+Mexico,2002,Agricultural Use,Fungicides and Bactericides,4796.72,t
+Mexico,2003,Agricultural Use,Fungicides and Bactericides,6394.85,t
+Mexico,2004,Agricultural Use,Fungicides and Bactericides,7444.37,t
+Mexico,2005,Agricultural Use,Fungicides and Bactericides,22063.8,t
+Mexico,2006,Agricultural Use,Fungicides and Bactericides,21283.2,t
+Mexico,2007,Agricultural Use,Fungicides and Bactericides,30024,t
+Mexico,2008,Agricultural Use,Fungicides and Bactericides,31278.6,t
+Mexico,2009,Agricultural Use,Fungicides and Bactericides,31374,t
+Mexico,2010,Agricultural Use,Fungicides and Bactericides,33198.6,t
+Mexico,2011,Agricultural Use,Fungicides and Bactericides,31854.6,t
+Mexico,2012,Agricultural Use,Fungicides and Bactericides,24775.8,t
+Mexico,2013,Agricultural Use,Fungicides and Bactericides,25333.8,t
+Mexico,2014,Agricultural Use,Fungicides and Bactericides,24009.6,t
+Mexico,2015,Agricultural Use,Fungicides and Bactericides,28930.8,t
+Mexico,2016,Agricultural Use,Fungicides and Bactericides,29200.2,t
+Mexico,2017,Agricultural Use,Fungicides and Bactericides,28957.8,t
+Mexico,2018,Agricultural Use,Fungicides and Bactericides,28601.4,t
+Mexico,2019,Agricultural Use,Fungicides and Bactericides,15142.8,t
+Mexico,2020,Agricultural Use,Fungicides and Bactericides,14475,t
+Mexico,2021,Agricultural Use,Fungicides and Bactericides,14182.2,t
+Mexico,2022,Agricultural Use,Fungicides and Bactericides,13239.6,t
+United States of America,1990,Agricultural Use,Pesticides (total),400522.34,t
+United States of America,1990,Use per area of cropland,Pesticides (total),2.13,kg/ha
+United States of America,1990,Use per capita,Pesticides (total),1.61,kg/cap
+United States of America,1990,Use per value of agricultural production,Pesticides (total),1.59,g/Int$
+United States of America,1991,Agricultural Use,Pesticides (total),395079.01,t
+United States of America,1991,Use per area of cropland,Pesticides (total),2.1,kg/ha
+United States of America,1991,Use per capita,Pesticides (total),1.57,kg/cap
+United States of America,1991,Use per value of agricultural production,Pesticides (total),1.59,g/Int$
+United States of America,1992,Agricultural Use,Pesticides (total),401883.08,t
+United States of America,1992,Use per area of cropland,Pesticides (total),2.16,kg/ha
+United States of America,1992,Use per capita,Pesticides (total),1.57,kg/cap
+United States of America,1992,Use per value of agricultural production,Pesticides (total),1.49,g/Int$
+United States of America,1993,Agricultural Use,Pesticides (total),390543.09,t
+United States of America,1993,Use per area of cropland,Pesticides (total),2.11,kg/ha
+United States of America,1993,Use per capita,Pesticides (total),1.51,kg/cap
+United States of America,1993,Use per value of agricultural production,Pesticides (total),1.58,g/Int$
+United States of America,1994,Agricultural Use,Pesticides (total),425922.68,t
+United States of America,1994,Use per area of cropland,Pesticides (total),2.31,kg/ha
+United States of America,1994,Use per capita,Pesticides (total),1.62,kg/cap
+United States of America,1994,Use per value of agricultural production,Pesticides (total),1.5,g/Int$
+United States of America,1995,Agricultural Use,Pesticides (total),423201.53,t
+United States of America,1995,Use per area of cropland,Pesticides (total),2.3,kg/ha
+United States of America,1995,Use per capita,Pesticides (total),1.59,kg/cap
+United States of America,1995,Use per value of agricultural production,Pesticides (total),1.61,g/Int$
+United States of America,1996,Agricultural Use,Pesticides (total),433180.36,t
+United States of America,1996,Use per area of cropland,Pesticides (total),2.39,kg/ha
+United States of America,1996,Use per capita,Pesticides (total),1.61,kg/cap
+United States of America,1996,Use per value of agricultural production,Pesticides (total),1.54,g/Int$
+United States of America,1997,Agricultural Use,Pesticides (total),431819.21,t
+United States of America,1997,Use per area of cropland,Pesticides (total),2.4,kg/ha
+United States of America,1997,Use per capita,Pesticides (total),1.59,kg/cap
+United States of America,1997,Use per value of agricultural production,Pesticides (total),1.48,g/Int$
+United States of America,1998,Agricultural Use,Pesticides (total),424562.11,t
+United States of America,1998,Use per area of cropland,Pesticides (total),2.37,kg/ha
+United States of America,1998,Use per capita,Pesticides (total),1.54,kg/cap
+United States of America,1998,Use per value of agricultural production,Pesticides (total),1.46,g/Int$
+United States of America,1999,Agricultural Use,Pesticides (total),433633.96,t
+United States of America,1999,Use per area of cropland,Pesticides (total),2.44,kg/ha
+United States of America,1999,Use per capita,Pesticides (total),1.55,kg/cap
+United States of America,1999,Use per value of agricultural production,Pesticides (total),1.46,g/Int$
+United States of America,2000,Agricultural Use,Pesticides (total),430005.21,t
+United States of America,2000,Use per area of cropland,Pesticides (total),2.41,kg/ha
+United States of America,2000,Use per capita,Pesticides (total),1.52,kg/cap
+United States of America,2000,Use per value of agricultural production,Pesticides (total),1.42,g/Int$
+United States of America,2001,Agricultural Use,Pesticides (total),411407.94,t
+United States of America,2001,Use per area of cropland,Pesticides (total),2.31,kg/ha
+United States of America,2001,Use per capita,Pesticides (total),1.44,kg/cap
+United States of America,2001,Use per value of agricultural production,Pesticides (total),1.37,g/Int$
+United States of America,2002,Agricultural Use,Pesticides (total),413313.03,t
+United States of America,2002,Use per area of cropland,Pesticides (total),2.35,kg/ha
+United States of America,2002,Use per capita,Pesticides (total),1.43,kg/cap
+United States of America,2002,Use per value of agricultural production,Pesticides (total),1.41,g/Int$
+United States of America,2003,Agricultural Use,Pesticides (total),407053.46,t
+United States of America,2003,Use per area of cropland,Pesticides (total),2.32,kg/ha
+United States of America,2003,Use per capita,Pesticides (total),1.4,kg/cap
+United States of America,2003,Use per value of agricultural production,Pesticides (total),1.34,g/Int$
+United States of America,2004,Agricultural Use,Pesticides (total),418030.39,t
+United States of America,2004,Use per area of cropland,Pesticides (total),2.38,kg/ha
+United States of America,2004,Use per capita,Pesticides (total),1.42,kg/cap
+United States of America,2004,Use per value of agricultural production,Pesticides (total),1.29,g/Int$
+United States of America,2005,Agricultural Use,Pesticides (total),409730.05,t
+United States of America,2005,Use per area of cropland,Pesticides (total),2.33,kg/ha
+United States of America,2005,Use per capita,Pesticides (total),1.38,kg/cap
+United States of America,2005,Use per value of agricultural production,Pesticides (total),1.3,g/Int$
+United States of America,2006,Agricultural Use,Pesticides (total),392810.67,t
+United States of America,2006,Use per area of cropland,Pesticides (total),2.24,kg/ha
+United States of America,2006,Use per capita,Pesticides (total),1.31,kg/cap
+United States of America,2006,Use per value of agricultural production,Pesticides (total),1.27,g/Int$
+United States of America,2007,Agricultural Use,Pesticides (total),400068.15,t
+United States of America,2007,Use per area of cropland,Pesticides (total),2.43,kg/ha
+United States of America,2007,Use per capita,Pesticides (total),1.32,kg/cap
+United States of America,2007,Use per value of agricultural production,Pesticides (total),1.22,g/Int$
+United States of America,2008,Agricultural Use,Pesticides (total),379202.92,t
+United States of America,2008,Use per area of cropland,Pesticides (total),2.31,kg/ha
+United States of America,2008,Use per capita,Pesticides (total),1.24,kg/cap
+United States of America,2008,Use per value of agricultural production,Pesticides (total),1.15,g/Int$
+United States of America,2009,Agricultural Use,Pesticides (total),358337.7,t
+United States of America,2009,Use per area of cropland,Pesticides (total),2.18,kg/ha
+United States of America,2009,Use per capita,Pesticides (total),1.16,kg/cap
+United States of America,2009,Use per value of agricultural production,Pesticides (total),1.07,g/Int$
+United States of America,2010,Agricultural Use,Pesticides (total),374818.2,t
+United States of America,2010,Use per area of cropland,Pesticides (total),2.28,kg/ha
+United States of America,2010,Use per capita,Pesticides (total),1.2,kg/cap
+United States of America,2010,Use per value of agricultural production,Pesticides (total),1.12,g/Int$
+United States of America,2011,Agricultural Use,Pesticides (total),391298.7,t
+United States of America,2011,Use per area of cropland,Pesticides (total),2.38,kg/ha
+United States of America,2011,Use per capita,Pesticides (total),1.25,kg/cap
+United States of America,2011,Use per value of agricultural production,Pesticides (total),1.18,g/Int$
+United States of America,2012,Agricultural Use,Pesticides (total),407779.2,t
+United States of America,2012,Use per area of cropland,Pesticides (total),2.59,kg/ha
+United States of America,2012,Use per capita,Pesticides (total),1.29,kg/cap
+United States of America,2012,Use per value of agricultural production,Pesticides (total),1.23,g/Int$
+United States of America,2013,Agricultural Use,Pesticides (total),418673.92,t
+United States of America,2013,Use per area of cropland,Pesticides (total),2.65,kg/ha
+United States of America,2013,Use per capita,Pesticides (total),1.31,kg/cap
+United States of America,2013,Use per value of agricultural production,Pesticides (total),1.21,g/Int$
+United States of America,2014,Agricultural Use,Pesticides (total),413134.78,t
+United States of America,2014,Use per area of cropland,Pesticides (total),2.6,kg/ha
+United States of America,2014,Use per capita,Pesticides (total),1.28,kg/cap
+United States of America,2014,Use per value of agricultural production,Pesticides (total),1.16,g/Int$
+United States of America,2015,Agricultural Use,Pesticides (total),423474.93,t
+United States of America,2015,Use per area of cropland,Pesticides (total),2.66,kg/ha
+United States of America,2015,Use per capita,Pesticides (total),1.3,kg/cap
+United States of America,2015,Use per value of agricultural production,Pesticides (total),1.21,g/Int$
+United States of America,2016,Agricultural Use,Pesticides (total),451666.83,t
+United States of America,2016,Use per area of cropland,Pesticides (total),2.82,kg/ha
+United States of America,2016,Use per capita,Pesticides (total),1.38,kg/cap
+United States of America,2016,Use per value of agricultural production,Pesticides (total),1.19,g/Int$
+United States of America,2017,Agricultural Use,Pesticides (total),449713.05,t
+United States of America,2017,Use per area of cropland,Pesticides (total),2.8,kg/ha
+United States of America,2017,Use per capita,Pesticides (total),1.36,kg/cap
+United States of America,2017,Use per value of agricultural production,Pesticides (total),1.21,g/Int$
+United States of America,2018,Agricultural Use,Pesticides (total),457385.42,t
+United States of America,2018,Use per area of cropland,Pesticides (total),2.87,kg/ha
+United States of America,2018,Use per capita,Pesticides (total),1.38,kg/cap
+United States of America,2018,Use per value of agricultural production,Pesticides (total),1.22,g/Int$
+United States of America,2019,Agricultural Use,Pesticides (total),495672.67,t
+United States of America,2019,Use per area of cropland,Pesticides (total),3.13,kg/ha
+United States of America,2019,Use per capita,Pesticides (total),1.48,kg/cap
+United States of America,2019,Use per value of agricultural production,Pesticides (total),1.36,g/Int$
+United States of America,2020,Agricultural Use,Pesticides (total),474707.49,t
+United States of America,2020,Use per area of cropland,Pesticides (total),3.02,kg/ha
+United States of America,2020,Use per capita,Pesticides (total),1.41,kg/cap
+United States of America,2020,Use per value of agricultural production,Pesticides (total),1.27,g/Int$
+United States of America,2021,Agricultural Use,Pesticides (total),433770.9,t
+United States of America,2021,Use per area of cropland,Pesticides (total),2.78,kg/ha
+United States of America,2021,Use per capita,Pesticides (total),1.29,kg/cap
+United States of America,2021,Use per value of agricultural production,Pesticides (total),1.14,g/Int$
+United States of America,2022,Agricultural Use,Pesticides (total),467676.6,t
+United States of America,2022,Use per area of cropland,Pesticides (total),3.02,kg/ha
+United States of America,2022,Use per capita,Pesticides (total),1.38,kg/cap
+United States of America,2022,Use per value of agricultural production,Pesticides (total),1.28,g/Int$
+United States of America,1990,Agricultural Use,Insecticides,86182.48,t
+United States of America,1991,Agricultural Use,Insecticides,88904.03,t
+United States of America,1992,Agricultural Use,Insecticides,92079.18,t
+United States of America,1993,Agricultural Use,Insecticides,91171.99,t
+United States of America,1994,Agricultural Use,Insecticides,98883.06,t
+United States of America,1995,Agricultural Use,Insecticides,104326.16,t
+United States of America,1996,Agricultural Use,Insecticides,111583.63,t
+United States of America,1997,Agricultural Use,Insecticides,100697.42,t
+United States of America,1998,Agricultural Use,Insecticides,81646.56,t
+United States of America,1999,Agricultural Use,Insecticides,94347.14,t
+United States of America,2000,Agricultural Use,Insecticides,100243.83,t
+United States of America,2001,Agricultural Use,Insecticides,79378.6,t
+United States of America,2002,Agricultural Use,Insecticides,90264.81,t
+United States of America,2003,Agricultural Use,Insecticides,79378.6,t
+United States of America,2004,Agricultural Use,Insecticides,91625.58,t
+United States of America,2005,Agricultural Use,Insecticides,83234.13,t
+United States of America,2006,Agricultural Use,Insecticides,74842.68,t
+United States of America,2007,Agricultural Use,Insecticides,78471.42,t
+United States of America,2008,Agricultural Use,Insecticides,70760.36,t
+United States of America,2009,Agricultural Use,Insecticides,63049.3,t
+United States of America,2010,Agricultural Use,Insecticides,63956.47,t
+United States of America,2011,Agricultural Use,Insecticides,64863.63,t
+United States of America,2012,Agricultural Use,Insecticides,65770.8,t
+United States of America,2013,Agricultural Use,Insecticides,67528.01,t
+United States of America,2014,Agricultural Use,Insecticides,66634.6,t
+United States of America,2015,Agricultural Use,Insecticides,68302.37,t
+United States of America,2016,Agricultural Use,Insecticides,72849.45,t
+United States of America,2017,Agricultural Use,Insecticides,72534.32,t
+United States of America,2018,Agricultural Use,Insecticides,73771.8,t
+United States of America,2019,Agricultural Use,Insecticides,8237.46,t
+United States of America,2020,Agricultural Use,Insecticides,7926.35,t
+United States of America,2021,Agricultural Use,Insecticides,7284.52,t
+United States of America,2022,Agricultural Use,Insecticides,7797.54,t
+United States of America,1990,Agricultural Use,Herbicides,206384.36,t
+United States of America,1991,Agricultural Use,Herbicides,199580.48,t
+United States of America,1992,Agricultural Use,Herbicides,204116.4,t
+United States of America,1993,Agricultural Use,Herbicides,192776.6,t
+United States of America,1994,Agricultural Use,Herbicides,219992.12,t
+United States of America,1995,Agricultural Use,Herbicides,209105.91,t
+United States of America,1996,Agricultural Use,Herbicides,218177.75,t
+United States of America,1997,Agricultural Use,Herbicides,213188.24,t
+United States of America,1998,Agricultural Use,Herbicides,210920.28,t
+United States of America,1999,Agricultural Use,Herbicides,194137.38,t
+United States of America,2000,Agricultural Use,Herbicides,195951.74,t
+United States of America,2001,Agricultural Use,Herbicides,196405.34,t
+United States of America,2002,Agricultural Use,Herbicides,189147.86,t
+United States of America,2003,Agricultural Use,Herbicides,193230.19,t
+United States of America,2004,Agricultural Use,Herbicides,192776.6,t
+United States of America,2005,Agricultural Use,Herbicides,190508.64,t
+United States of America,2006,Agricultural Use,Herbicides,184611.94,t
+United States of America,2007,Agricultural Use,Herbicides,200034.07,t
+United States of America,2008,Agricultural Use,Herbicides,205250.39,t
+United States of America,2009,Agricultural Use,Herbicides,210466.7,t
+United States of America,2010,Agricultural Use,Herbicides,225586.43,t
+United States of America,2011,Agricultural Use,Herbicides,240706.17,t
+United States of America,2012,Agricultural Use,Herbicides,255825.9,t
+United States of America,2013,Agricultural Use,Herbicides,262660.85,t
+United States of America,2014,Agricultural Use,Herbicides,259185.8,t
+United States of America,2015,Agricultural Use,Herbicides,265672.83,t
+United States of America,2016,Agricultural Use,Herbicides,283359.41,t
+United States of America,2017,Agricultural Use,Herbicides,282133.68,t
+United States of America,2018,Agricultural Use,Herbicides,286947.05,t
+United States of America,2019,Agricultural Use,Herbicides,430546.72,t
+United States of America,2020,Agricultural Use,Herbicides,410430.01,t
+United States of America,2021,Agricultural Use,Herbicides,374563.23,t
+United States of America,2022,Agricultural Use,Herbicides,405497.1,t
+United States of America,1990,Agricultural Use,Fungicides and Bactericides,22680,t
+United States of America,1991,Agricultural Use,Fungicides and Bactericides,21319,t
+United States of America,1992,Agricultural Use,Fungicides and Bactericides,20412,t
+United States of America,1993,Agricultural Use,Fungicides and Bactericides,21319,t
+United States of America,1994,Agricultural Use,Fungicides and Bactericides,21772,t
+United States of America,1995,Agricultural Use,Fungicides and Bactericides,22226,t
+United States of America,1996,Agricultural Use,Fungicides and Bactericides,23133.19,t
+United States of America,1997,Agricultural Use,Fungicides and Bactericides,24040,t
+United States of America,1998,Agricultural Use,Fungicides and Bactericides,24493.97,t
+United States of America,1999,Agricultural Use,Fungicides and Bactericides,20411.64,t
+United States of America,2000,Agricultural Use,Fungicides and Bactericides,19958.05,t
+United States of America,2001,Agricultural Use,Fungicides and Bactericides,19050.86,t
+United States of America,2002,Agricultural Use,Fungicides and Bactericides,18143.68,t
+United States of America,2003,Agricultural Use,Fungicides and Bactericides,19504.46,t
+United States of America,2004,Agricultural Use,Fungicides and Bactericides,19504.46,t
+United States of America,2005,Agricultural Use,Fungicides and Bactericides,22680,t
+United States of America,2006,Agricultural Use,Fungicides and Bactericides,20865.23,t
+United States of America,2007,Agricultural Use,Fungicides and Bactericides,21318.82,t
+United States of America,2008,Agricultural Use,Fungicides and Bactericides,21092.01,t
+United States of America,2009,Agricultural Use,Fungicides and Bactericides,20865.2,t
+United States of America,2010,Agricultural Use,Fungicides and Bactericides,21923.6,t
+United States of America,2011,Agricultural Use,Fungicides and Bactericides,22982,t
+United States of America,2012,Agricultural Use,Fungicides and Bactericides,24040.4,t
+United States of America,2013,Agricultural Use,Fungicides and Bactericides,24682.69,t
+United States of America,2014,Agricultural Use,Fungicides and Bactericides,24356.14,t
+United States of America,2015,Agricultural Use,Fungicides and Bactericides,24965.73,t
+United States of America,2016,Agricultural Use,Fungicides and Bactericides,26627.77,t
+United States of America,2017,Agricultural Use,Fungicides and Bactericides,26512.59,t
+United States of America,2018,Agricultural Use,Fungicides and Bactericides,26964.91,t
+United States of America,2019,Agricultural Use,Fungicides and Bactericides,15869.08,t
+United States of America,2020,Agricultural Use,Fungicides and Bactericides,15608.83,t
+United States of America,2021,Agricultural Use,Fungicides and Bactericides,14200.13,t
+United States of America,2022,Agricultural Use,Fungicides and Bactericides,15074.68,t
+United States of America,1990,Agricultural Use,Rodenticides,11340,t
+United States of America,1991,Agricultural Use,Rodenticides,11340,t
+United States of America,1992,Agricultural Use,Rodenticides,11340,t
+United States of America,1993,Agricultural Use,Rodenticides,11340,t
+United States of America,1994,Agricultural Use,Rodenticides,11340,t
+United States of America,1995,Agricultural Use,Rodenticides,11340,t
+United States of America,1996,Agricultural Use,Rodenticides,11339.8,t
+United States of America,1997,Agricultural Use,Rodenticides,11339.8,t
+United States of America,1998,Agricultural Use,Rodenticides,11339.8,t
+United States of America,1999,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2000,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2001,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2002,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2003,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2004,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2005,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2006,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2007,Agricultural Use,Rodenticides,11339.8,t
+United States of America,2008,Agricultural Use,Rodenticides,5669.9,t
+United States of America,2009,Agricultural Use,Rodenticides,0,t
+United States of America,2010,Agricultural Use,Rodenticides,0,t
+United States of America,2011,Agricultural Use,Rodenticides,0,t
+United States of America,2012,Agricultural Use,Rodenticides,0,t
+United States of America,2013,Agricultural Use,Rodenticides,0,t
+United States of America,2014,Agricultural Use,Rodenticides,0,t
+United States of America,2015,Agricultural Use,Rodenticides,0,t
+United States of America,2016,Agricultural Use,Rodenticides,0,t
+United States of America,2017,Agricultural Use,Rodenticides,0,t
+United States of America,2018,Agricultural Use,Rodenticides,0,t
+United States of America,2019,Agricultural Use,Rodenticides,0,t
+United States of America,2020,Agricultural Use,Rodenticides,0,t
+United States of America,2021,Agricultural Use,Rodenticides,0,t
+United States of America,2022,Agricultural Use,Rodenticides,0,t
+United States of America,1990,Agricultural Use,Other Pesticides nes,73935.5,t
+United States of America,1991,Agricultural Use,Other Pesticides nes,73935.5,t
+United States of America,1992,Agricultural Use,Other Pesticides nes,73935.5,t
+United States of America,1993,Agricultural Use,Other Pesticides nes,73935.5,t
+United States of America,1994,Agricultural Use,Other Pesticides nes,73935.5,t
+United States of America,1995,Agricultural Use,Other Pesticides nes,76203.46,t
+United States of America,1996,Agricultural Use,Other Pesticides nes,68945.99,t
+United States of America,1997,Agricultural Use,Other Pesticides nes,82553.74,t
+United States of America,1998,Agricultural Use,Other Pesticides nes,96161.5,t
+United States of America,1999,Agricultural Use,Other Pesticides nes,113398,t
+United States of America,2000,Agricultural Use,Other Pesticides nes,102511.79,t
+United States of America,2001,Agricultural Use,Other Pesticides nes,105233.34,t
+United States of America,2002,Agricultural Use,Other Pesticides nes,104416.88,t
+United States of America,2003,Agricultural Use,Other Pesticides nes,103600.41,t
+United States of America,2004,Agricultural Use,Other Pesticides nes,102783.95,t
+United States of America,2005,Agricultural Use,Other Pesticides nes,101967.48,t
+United States of America,2006,Agricultural Use,Other Pesticides nes,101151.02,t
+United States of America,2007,Agricultural Use,Other Pesticides nes,88904.03,t
+United States of America,2008,Agricultural Use,Other Pesticides nes,76430.26,t
+United States of America,2009,Agricultural Use,Other Pesticides nes,63956.5,t
+United States of America,2010,Agricultural Use,Other Pesticides nes,63351.7,t
+United States of America,2011,Agricultural Use,Other Pesticides nes,62746.9,t
+United States of America,2012,Agricultural Use,Other Pesticides nes,62142.1,t
+United States of America,2013,Agricultural Use,Other Pesticides nes,63802.36,t
+United States of America,2014,Agricultural Use,Other Pesticides nes,62958.25,t
+United States of America,2015,Agricultural Use,Other Pesticides nes,64534,t
+United States of America,2016,Agricultural Use,Other Pesticides nes,68830.2,t
+United States of America,2017,Agricultural Use,Other Pesticides nes,68532.46,t
+United States of America,2018,Agricultural Use,Other Pesticides nes,69701.67,t
+United States of America,2019,Agricultural Use,Other Pesticides nes,41019.4,t
+United States of America,2020,Agricultural Use,Other Pesticides nes,40742.3,t
+United States of America,2021,Agricultural Use,Other Pesticides nes,37723.03,t
+United States of America,2022,Agricultural Use,Other Pesticides nes,39307.28,t
