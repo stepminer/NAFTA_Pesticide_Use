@@ -6,7 +6,6 @@
 #
 #    http://shiny.rstudio.com/
 #
-# Load necessary libraries
 library(shiny)
 library(leaflet)
 library(dplyr)
@@ -27,16 +26,18 @@ data_coded <- data %>%
   )
 
 # Load the world shapefile
-World_shapefile <- st_read("geoBoundariesCGAZ_ADM0.geojson")
+
+NAFTA_shapefile <- st_read("north_america_boundaries.geojson")
+
 
 # Filter shapefile for NAFTA countries
-NAFTA_countries <- c("Canada", "United States", "Mexico")
-NAFTA_shapefile <- World_shapefile %>%
-  filter(shapeName %in% NAFTA_countries)
+#NAFTA_countries <- c("Canada", "United States", "Mexico")
+#NAFTA_shapefile <- NAFTA_shapefile %>%
+#  filter(shapeName %in% NAFTA_countries)
 
 # Join data with the shapefile
 merged_data <- NAFTA_shapefile %>%
-  left_join(data_coded, by = c("shapeName" = "area"))
+  left_join(data_coded, by = c("name_long" = "area"))
 
 # Define the Shiny UI
 ui <- fluidPage(
@@ -92,7 +93,7 @@ server <- function(input, output, session) {
   # Prepare country polygons for Leaflet, merged with pesticide data for 2022
   map_data <- reactive({
     NAFTA_shapefile %>%
-      left_join(filtered_data_2022(), by = c("shapeName" = "area"))
+      left_join(filtered_data_2022(), by = c("name_long" = "area"))
   })
   
   # Create a more dramatic color palette from yellow to red
@@ -113,7 +114,7 @@ server <- function(input, output, session) {
         fillOpacity = 0.7,
         color = "white",
         weight = 1,
-        popup = ~paste("Country: ", shapeName, "<br>",
+        popup = ~paste("Country: ", name_long, "<br>",
                        "Year: ", year, "<br>",
                        "Pesticide Use: ", value, " ", unit)
       ) %>%
@@ -148,4 +149,4 @@ server <- function(input, output, session) {
 }
 
 # Run the application 
-shinyApp(ui = ui,  server = server)
+shinyApp(ui = ui, server = server)
