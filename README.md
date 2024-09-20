@@ -4,7 +4,7 @@ Shinny App to explore and visualize pesticide usage across NAFTA countries.
 
 This document provides an overview of the NAFTA Pesticide Use App, which was designed to explore and visualize pesticide usage across NAFTA countries. The app offers interactive mapping, trend analysis, and detailed data tables, allowing users to examine pesticide usage over time and across different regions.
 
-Despite its functionality, the app is too CPU and memory-intensive for deployment in its current form. Therefore, we provide static images to illustrate its key features.
+Despite its functionality, the app is too CPU and memory-intensive for FULL deployment in its current form. Therefore, we provide a lightweight version to illustrate its key features.
 
 ## App Features
 
@@ -28,4 +28,4 @@ The data table presents a detailed view of the pesticide usage data. Users can f
 
 ## Conclusion
 
-The NAFTA Pesticide Use App offers a comprehensive tool for exploring pesticide usage data across NAFTA countries. While the current version of the app is too resource-intensive for deployment, the static images provided here showcase its powerful capabilities. Future optimizations could allow for a more lightweight version suitable for web deployment, enabling wider accessibility and use.
+The NAFTA Pesticide Use App offers a comprehensive tool for exploring pesticide usage data across NAFTA countries. While the current version of the app is too resource-intensive for FULL deployment, the lightweight version here showcases its powerful capabilities. Future optimizations could allow for adding more features suitable for web deployment, enabling wider analytics accessibility and use.
